@@ -17,3 +17,4 @@ spec:
       containers:
       - name: web
         image: hogehoge
+        imagePullPolicy: Always
